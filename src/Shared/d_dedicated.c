@@ -38,7 +38,7 @@ void NET_CL_Run(void)
 
 void D_DoomMain(void)
 {
-    printf(PACKAGE_NAME " standalone dedicated server\n");
+//    printf(PACKAGE_NAME " standalone dedicated server\n");
 
     Z_Init();
 
